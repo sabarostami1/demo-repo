@@ -8,4 +8,4 @@ These are some testing
 
 **Bold** 
 
-*italic**
+*italic*
